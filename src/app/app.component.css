@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.card{
+  width: 50%;
+  margin: 50 auto;
+  padding: 40px;
+}
+
+.card-img-top{
+  width: 150px;
+  margin-bottom: 20px;;
+}
+
+.btn{
+  margin-top: 10px;
+  width: 100%;
+  background: linear-gradient(135deg, #26519B, #00BDFE);
+  color: #FFFFFF;
+}
